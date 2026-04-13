@@ -1,10 +1,47 @@
+#### Math
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#symbols) | :![Visitors](https://vbr.nathanchung.dev/badge?page_id=TopDog.github)
+![Visitors](https://vbr.nathanchung.dev/badge?page_id=TopDog.github&style=for-the-badge&logo=github&text=PROFILE+VIEWS)![Visitors](https://vbr.nathanchung.dev/badge?page_id=YOUR_USERNAME.YOUR_REPO): | `:heavy_multiplication_x:` | :heavy_plus_sign: | `:heavy_plus_sign:` | [top](#table-of-contents) |
+| [top](#symbols) | :heavy_minus_sign: | `:heavy_minus_sign:` | :heavy_division_sign: | `:heavy_division_sign:` | [top](#table-of-contents) |
+| [top](#symbols) | :infinity: | `:infinity:` | | 
+
+| [top](#table-of-contents) |
+
+
+#### Punctuation
+
 #### Drink
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
-| [top](#food--drink) | :baby_bottle: | :baby_bottle: | :milk_glass: | :milk_glass: | [top](#table-of-contents) |
-| [top](#food--drink) | :coffee: | :coffee: | :teapot: | :teapot: | [top](#table-of-contents) https://github.com/YOUTUBEGITS/welcome/issues/new/choose|
-| [top](#food--drink) | :tea: | :tea: | :sake: | :sake: | [top](#table-of-contents) |
+| [![Views Counter](https://views-counter.vercel.app/badge?pageId=YOUR_USERNAME)](#food--drink) | :baby_bottle: | :baby_bottle: | :milk_glass: | :milk_glass: | [![Views Counter](https://views-counter.vercel.app/badge?pageId=YOUR_USERNAME)](#table-of-contents) |
+| [![Profile Views](https://komarev.com/ghpvc/?username=TopDog&color=brightgreen&style=for-the-badge)](#food--drink) | :coffee: | :coffee: | :teapot: | :teapot: | [<p align="center">
+
+<a href="#home">
+  <img src="https://img.shields.io/badge/Home-🏠-blue?style=for-the-badge" />
+</a>
+
+<a href="#front">
+  <img src="https://img.shields.io/badge/Front-⬆️-green?style=for-the-badge" />
+</a>
+
+<a href="#back">
+  <img src="https://img.shields.io/badge/Back-⬇️-red?style=for-the-badge" />
+</a>
+
+<a href="#menu">
+  <img src="https://img.shields.io/badge/Menu-📋-purple?style=for-the-badge" />
+</a>
+
+<a href="#category">
+  <img src="https://img.shields.io/badge/Category-📂-orange?style=for-the-badge" />
+</a>
+
+</p>](#table-of-contents) https://github.com/YOUTUBEGITS/welcome/issues/new/choose|
+| ![Views Counter](https://views-counter.vercel.app/badge?pageId=YOUR_USERNAME)](#food--drink) | :tea: | :tea: | :sake: | :sake: | ![Visitors](https://vbr.nathanchung.dev/badge?page_id=TopDog.github)
+![Visitors](https://vbr.nathanchung.dev/badge?page_id=TopDog.github&style=for-the-badge&logo=github&text=PROFILE+VIEWS)![Visitors](https://vbr.nathanchung.dev/badge?page_id=YOUR_USERNAME.YOUR_REPO)](#table-of-contents) |
 
 
 
